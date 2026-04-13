@@ -3,7 +3,10 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "versioning" : {
+      "swift": "6.0.0"
+    }
   },
   "scanSettingsSAST": {
     "enableScan": false,
