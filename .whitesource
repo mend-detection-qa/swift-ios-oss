@@ -5,7 +5,7 @@
     "projectToken": "",
     "baseBranches": [],
     "versioning" : {
-      "swift": "6.1.0"
+      "swift": "5.8.0"
     }
   },
   "scanSettingsSAST": {
